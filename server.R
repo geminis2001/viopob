@@ -45,7 +45,7 @@ shinyServer(function(input, output,session) {
   output$mpgPlot <- renderPlot({
     opt<-input$Type
     a<-"select * from Q"
-    if ((opt=="Correlation") | (opt=="Both")){
+    if ((opt=="regression") | (opt=="Both")){
       opt2<-input$depto
       if (opt2 != "(All)")
         a<-paste(a," where depto like '%", trim(opt2),"%'",sep="")  
