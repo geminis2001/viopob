@@ -1,0 +1,55 @@
+============================================================
+<h3>Developing Data Products</h3>
+<h4>Course Projects</h4>
+
+
+<H1>Comparing poverty and violence in El Salvador</h1>
+
+<br>
+<br>
+<br>
+<p>Note: Violence is now a major issue in the country ; however the data presented here are fictitious and do not reflect the reality of El Salvador .</p>
+
+
+Project Data 
+========================================================
+<center>![Data project](./data.png)</center>
+
+The territory of El Salvador is divided into departments and municipalities.
+
+The data fields used are :
+
+- No: nomber of municipality.
+- DEPTO: Department (departamento) division.
+- Municipio: Municipality of department
+- Violencia: Violence index
+- Pobreza: Poverty index
+
+Controls
+========================================================
+<center>![Controls](./P1.png)</center>
+
+the controls are:
+
+- 1: Choose a Department. If choose "(All)", all municipalities are displaying. If choose only one, the municipalities are filter by this value.
+
+Controls (cont)
+========================================================
+- 2: Type: may be "regression": only the graph is displaying with linear regresion show. "Data": raw data show. "Both": data and graph are showed at same time.
+- 3: Include Municipalities in graph, the points have colors for distinguish between municipalities
+
+- 4: the graph.
+<center>
+```{r echo=FALSE}
+suppressPackageStartupMessages(library(ggplot2))
+Q<-read.csv(file = "./datos.csv")
+ ggplot(Q, aes(x=Violencia, y=Pobreza))+ geom_point(shape=1)+geom_smooth(method=lm)
+
+```
+</center>
+
+Example 
+=============================================
+when choose one department and We want view both: graph and data
+
+<center>![Data project](./P2.png)</center>
