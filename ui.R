@@ -4,7 +4,7 @@ suppressPackageStartupMessages(
 )
 library(sqldf)
 source("./fun.R")
-
+#cambio
 # Define UI for dataset viewer application
 shinyUI(fluidPage(
   useShinyjs(),
@@ -19,10 +19,8 @@ shinyUI(fluidPage(
     sidebarPanel(
       selectInput("depto", "Choose a Department:", 
                   choices = c(leerdep())),
-      #selectInput("Munic", "Choose a municipality:", 
-      #            choices = c("Quezaltepeque", "Nejapa")),
-      
-      selectInput("Type", "Choose a Type:",choices = c("Correlation","Data","Both")),
+            
+      selectInput("Type", "Choose a Type:",choices = c("regression","Data","Both")),
       checkboxInput("tcolor","Include Municipalities in graph",FALSE)
       
             
