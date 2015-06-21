@@ -1,0 +1,262 @@
+No,depto,Municipio,Violencia,Pobreza
+1,Ahuachapan ,Ahuachapan ,19.1,20
+2,Ahuachapan ,Apaneca ,29.7,15.7
+3,Ahuachapan ,Atiquizaya ,15.02,13.9
+4,Ahuachapan ,Concepcion de Ataco ,34.1,29
+5,Ahuachapan ,El Refugio ,15.4,9.9
+6,Ahuachapan ,Guaymango ,34.56,47.2
+7,Ahuachapan ,Jujutla ,30.48,35.7
+8,Ahuachapan ,San Francisco Menendez ,4,7
+9,Ahuachapan ,San Lorenzo ,4,8
+10,Ahuachapan ,San Pedro Puxtla ,28.2,39.4
+11,Ahuachapan ,Tacuba ,41.12,42.2
+12,Ahuachapan ,Turin ,24.58,16
+13,Cabanas ,Cinquera ,50.19,52.4
+14,Cabanas ,Guacotecti ,8,7
+15,Cabanas ,Ilobasco ,31.66,31
+16,Cabanas ,Jutiapa ,53.34,53.9
+17,Cabanas ,San Isidro ,18.8,28
+18,Cabanas ,Sensuntepeque ,29.1,25
+19,Cabanas ,Tejutepeque ,19.89,36
+20,Cabanas ,Victoria ,38.66,42.1
+21,Cabanas ,Villa Dolores ,43.04,37.9
+22,Chalatenango ,Agua Caliente ,27.83,32.9
+23,Chalatenango ,Arcatao ,39.59,48.2
+24,Chalatenango ,Azacualpa ,26.9,27
+25,Chalatenango ,Chalatenango ,24.32,17.7
+26,Chalatenango ,Citala ,2,5
+27,Chalatenango ,Comalapa ,32.31,40
+28,Chalatenango ,Concepcion Quezaltepeque ,15.82,31.8
+29,Chalatenango ,Dulce Nombre de Maria ,2,4
+30,Chalatenango ,El Carrizal ,22.53,40.3
+31,Chalatenango ,El Paraiso ,16,8
+32,Chalatenango ,La Laguna ,28.49,47.2
+33,Chalatenango ,La Palma ,3,8
+34,Chalatenango ,La Reina ,4,7
+35,Chalatenango ,Las Vueltas ,29.66,45.8
+36,Chalatenango ,Nombre de Jesus ,23.95,36.3
+37,Chalatenango ,Nueva Concepcion ,6,3
+38,Chalatenango ,Nueva Trinidad ,28.2,40.4
+39,Chalatenango ,Ojos de Agua ,41.05,50.6
+40,Chalatenango ,Potonico ,30.54,47.2
+41,Chalatenango ,San Antonio de la Cruz ,23.57,42.6
+42,Chalatenango ,San Antonio de los Ranchos ,45.05,49.7
+43,Chalatenango ,San Fernando ,35.52,59.7
+44,Chalatenango ,San Francisco Lempa ,29.24,31.6
+45,Chalatenango ,San Francisco Morazan ,42.79,47.9
+46,Chalatenango ,San Ignacio ,4,6
+47,Chalatenango ,San Isidro Labrador ,38.52,58.6
+48,Chalatenango ,San Jose Cancasque ,49.11,58.1
+49,Chalatenango ,San Jose Las Flores ,41.68,41.8
+50,Chalatenango ,San Luis del Carmen ,21.22,37.7
+51,Chalatenango ,San Miguel de Mercedes ,19.46,34.5
+52,Chalatenango ,San Rafael ,27.8,9
+53,Chalatenango ,Santa Rita ,19.6,24
+54,Chalatenango ,Tejutla ,28.9,24
+55,Cuscatlan ,Candelaria ,3,1
+56,Cuscatlan ,Cojutepeque ,23.5,10.1
+57,Cuscatlan ,El Carmen ,4,8
+58,Cuscatlan ,El Rosario ,32.91,33.5
+59,Cuscatlan ,Monte San Juan ,41.25,34.8
+60,Cuscatlan ,Oratorio de Concepcion ,7,7
+61,Cuscatlan ,San Bartolome Perulapia ,13.48,12.6
+62,Cuscatlan ,San Cristobal ,40.49,31.3
+63,Cuscatlan ,San Jose Guayabal ,31.2,27
+64,Cuscatlan ,San Pedro Perulapan ,19.49,11.7
+65,Cuscatlan ,San Rafael Cedros ,27.62,15
+66,Cuscatlan ,San Ramon ,30.8,22
+67,Cuscatlan ,Santa Cruz Analquito ,35.16,36.4
+68,Cuscatlan ,Santa Cruz Michapa ,19.08,12.4
+69,Cuscatlan ,Tenancingo ,34.36,30.2
+70,La Libertad ,Antiguo Cuscatlan ,5.98,4.2
+71,La Libertad ,Chiltiupan ,31.69,36.3
+72,La Libertad ,Ciudad Arce ,18.77,6.2
+73,La Libertad ,Colon ,17.42,8.3
+74,La Libertad ,Comasagua ,31.11,35.8
+75,La Libertad ,Huizucar ,45.6,26
+76,La Libertad ,Jayaque ,29.74,13.4
+77,La Libertad ,Jicalapa ,47.56,41.6
+78,La Libertad ,La Libertad ,28.83,13.2
+79,La Libertad ,Nuevo Cuscatlan ,21.61,9.9
+80,La Libertad ,Quezaltepeque ,15.36,8.9
+81,La Libertad ,Sacacoyo ,11.31,11.4
+82,La Libertad ,San Jose Villanueva ,28.52,17.3
+83,La Libertad ,San Juan Opico ,23.66,14.4
+84,La Libertad ,San Matias ,16.6,21
+85,La Libertad ,San Pablo Tacachico ,32.9,19
+86,La Libertad ,Santa Tecla ,15.98,5.9
+87,La Libertad ,Talnique ,38.2,22
+88,La Libertad ,Tamanique ,13,9
+89,La Libertad ,Teotepeque ,37.49,34.3
+90,La Libertad ,Tepecoyo ,32.5,29
+91,La Libertad ,Zaragoza ,20.91,14.5
+92,La Paz ,Cuyultitan ,10.43,9.1
+93,La Paz ,El Rosario de La Paz ,27.01,16.3
+94,La Paz ,Jerusalen ,31.5,19
+95,La Paz ,Mercedes La Ceiba ,34.1,23
+96,La Paz ,Olocuilta ,19.72,7.8
+97,La Paz ,Paraiso de Osorio ,42.29,44.8
+98,La Paz ,San Antonio Masahuat ,30.32,33.6
+99,La Paz ,San Emigdio ,24.66,38.8
+100,La Paz ,San Francisco Chinameca,39.8,29
+101,La Paz ,San Juan Nonualco ,38.2,28
+102,La Paz ,San Juan Talpa ,21.61,13.8
+103,La Paz ,San Juan Tepezontes ,40.23,36
+104,La Paz ,San Luis La Herradura ,18.62,16.3
+105,La Paz ,San Luis Talpa ,13.67,14.9
+106,La Paz ,San Miguel Tepezontes ,32.58,38
+107,La Paz ,San Pedro Masahuat ,23.94,15.5
+108,La Paz ,San Pedro Nonualco ,38.99,32.6
+109,La Paz ,San Rafael Obrajuelo ,20.27,15.1
+110,La Paz ,Santa Maria Ostuma ,40.24,33.9
+111,La Paz ,Santiago Nonualco ,30.81,16.4
+112,La Paz ,Tapalhuaca ,22.22,32.2
+113,La Paz ,Zacatecoluca ,28.63,17.9
+114,La Union ,Anamoros ,36.1,24
+115,La Union ,Bolivar ,17.1,28
+116,La Union ,Concepcion de Oriente ,23.56,17.8
+117,La Union ,Conchagua ,1,5
+118,La Union ,El Carmen ,5,1
+119,La Union ,El Sauce ,3,9
+120,La Union ,Intipuca ,21.29,17.6
+121,La Union ,La Union ,16.19,11
+122,La Union ,Lislique ,42.53,37
+123,La Union ,Meanguera del Golfo ,34.41,16.8
+124,La Union ,Nueva Esparta ,38.8,23
+125,La Union ,Pasaquina ,26.96,15.9
+126,La Union ,Poloros ,39.5,26
+127,La Union ,San Alejo ,31.66,17.5
+128,La Union ,San Jose ,30.8,31.3
+129,La Union ,Santa Rosa de Lima ,27.73,14.9
+130,La Union ,Yayantique ,26.86,32
+131,La Union ,Yucuaiquin ,37.1,22
+132,Morazan ,Arambala ,29.25,31.2
+133,Morazan ,Cacaopera ,45.27,40.9
+134,Morazan ,Chilanga ,45.25,38.7
+135,Morazan ,Corinto ,42.93,35.6
+136,Morazan ,Delicias de Concepcion ,28.46,30.1
+137,Morazan ,El Divisadero ,12,5
+138,Morazan ,El Rosario ,21.62,31.5
+139,Morazan ,Gualococti ,36.8,56.5
+140,Morazan ,Guatajiagua ,43.91,53.1
+141,Morazan ,Joateca ,46.12,43.2
+142,Morazan ,Jocoaitique ,22.9,26
+143,Morazan ,Jocoro ,23.13,13.4
+144,Morazan ,Lolotiquillo ,30.64,33.7
+145,Morazan ,Meanguera ,22.6,24
+146,Morazan ,Osicala ,5,23
+147,Morazan ,Perquin ,28.5,25
+148,Morazan ,Quelepa ,29.23,12.9
+149,Morazan ,San Carlos ,27.28,18.1
+150,Morazan ,San Fernando ,36.93,38.1
+151,Morazan ,San Francisco Gotera ,20.4,16.7
+152,Morazan ,San Isidro ,53.06,49.8
+153,Morazan ,San Simon ,37.42,44.2
+154,Morazan ,Sensembra ,32.84,40.4
+155,Morazan ,Sociedad ,38.1,28
+156,Morazan ,Torola ,43.91,60.04
+157,Morazan ,Yamabal ,37.68,38.8
+158,Morazan ,Yoloaiquin ,23.95,16.8
+159,San Miguel ,Carolina ,50.58,45.5
+160,San Miguel ,Chapeltique ,22.64,14.2
+161,San Miguel ,Chinameca ,33.4,25
+162,San Miguel ,Chirilagua ,8,1
+163,San Miguel ,Ciudad Barrios ,25.4,32.9
+164,San Miguel ,Comacaran ,19.76,16.1
+165,San Miguel ,El Transito ,26.62,17.8
+166,San Miguel ,Lolotique ,30.9,23
+167,San Miguel ,Moncagua ,27.3,26
+168,San Miguel ,Nueva Guadalupe ,13.41,14.3
+169,San Miguel ,Nuevo Eden de San Juan ,36.08,39.5
+170,San Miguel ,San Antonio del Mosco ,56.66,59.5
+171,San Miguel ,San Gerardo ,43.43,33.6
+172,San Miguel ,San Jorge ,23.66,34.4
+173,San Miguel ,San Luis de la Reina ,30.8,24
+174,San Miguel ,San Miguel ,21.58,9.6
+175,San Miguel ,San Rafael Oriente ,7,2
+176,San Miguel ,Sesori ,35.32,32.1
+177,San Miguel ,Uluazapa ,4,1
+178,San Salvador ,Aguilares ,14.77,12.9
+179,San Salvador ,Apopa ,2.96,8.4
+180,San Salvador ,Ayutuxtepeque ,-0.18,6.3
+181,San Salvador ,Ciudad Delgado ,13.34,6.9
+182,San Salvador ,Cuscatancingo ,16.19,6.6
+183,San Salvador ,El Paisnal ,0,5
+184,San Salvador ,Guazapa ,12.37,17.4
+185,San Salvador ,Ilopango ,15.75,5.2
+186,San Salvador ,Mejicanos ,15.53,5.3
+187,San Salvador ,Nejapa ,32.57,12.2
+188,San Salvador ,Panchimalco ,4,9
+189,San Salvador ,Rosario de Mora ,39.3,24
+190,San Salvador ,San Marcos ,11,10
+191,San Salvador ,San Martin ,16.96,9.3
+192,San Salvador ,San Salvador ,8.25,6
+193,San Salvador ,Santiago Texacuangos ,10.16,9
+194,San Salvador ,Santo Tomas ,13.7,7.8
+195,San Salvador ,Soyapango ,2.8,5.2
+196,San Salvador ,Tonacatepeque ,8.73,8.8
+197,San Vicente ,Apastepeque ,41.18,33.1
+198,San Vicente ,Guadalupe ,8,2
+199,San Vicente ,San Cayetano Istepeque ,34.7,22
+200,San Vicente ,San Esteban Catarina ,41.89,43.1
+201,San Vicente ,San Ildefonso ,41.22,36.1
+202,San Vicente ,San Lorenzo ,29.34,37.9
+203,San Vicente ,San Sebastian ,16.2,19
+204,San Vicente ,San Vicente ,5,22
+205,San Vicente ,Santa Clara ,34.18,47.8
+206,San Vicente ,Santo Domingo,16.6,18
+207,San Vicente ,Tecoluca ,11,9
+208,San Vicente ,Tepetitan ,25.37,17
+209,San Vicente ,Verapaz ,32.08,31.8
+210,Santa Ana ,Candelaria de la Frontera,7,9
+211,Santa Ana ,Chalchuapa ,14.68,16.4
+212,Santa Ana ,Coatepeque ,25.8,2
+213,Santa Ana ,El Congo ,6,4
+214,Santa Ana ,El Porvenir ,1,6
+215,Santa Ana ,Masahuat ,47.94,48.2
+216,Santa Ana ,Metapan ,14.61,16.5
+217,Santa Ana ,San Antonio Pajonal ,9,29
+218,Santa Ana ,San Sebastian Salitrillo ,17.87,7.2
+219,Santa Ana ,Santa Ana ,4.94,11.8
+220,Santa Ana ,Santa Rosa Guachipilin ,17.79,32.5
+221,Santa Ana ,Santiago de la Frontera ,42.65,44.6
+222,Santa Ana ,Texistepeque ,28.2,23
+223,Sonsonate ,Acajutla ,17.41,15.8
+224,Sonsonate ,Armenia ,30.09,14.5
+225,Sonsonate ,Caluco ,44.61,43.7
+226,Sonsonate ,Cuisnahuat ,54.91,52.4
+227,Sonsonate ,Izalco ,21.5,23
+228,Sonsonate ,Juayua ,23.76,10.6
+229,Sonsonate ,Nahuizalco ,5,1
+230,Sonsonate ,Nahulingo ,31.65,10.6
+231,Sonsonate ,Salcoatitan ,25.5,21
+232,Sonsonate ,San Antonio del Monte ,11.87,12.3
+233,Sonsonate ,San Julian ,9,5
+234,Sonsonate ,Santa Catarina Masahuat ,35.64,34.6
+235,Sonsonate ,Santa Isabel Ishuatan ,35.98,40.8
+236,Sonsonate ,Santo Domingo de Guzman ,34.63,44.5
+237,Sonsonate ,Sonsonate ,11.86,13.1
+238,Sonsonate ,Sonzacate ,3.17,6.8
+239,Usulutan ,Alegria ,38.94,36.8
+240,Usulutan ,Berlin ,31.97,35.2
+241,Usulutan ,California ,9,18
+242,Usulutan ,Concepcion Batres ,27.15,30.9
+243,Usulutan ,El Triunfo ,18.2,20
+244,Usulutan ,Ereguayquin ,5,9
+245,Usulutan ,Estanzuelas ,33.05,44.2
+246,Usulutan ,Jiquilisco ,40.7,27
+247,Usulutan ,Jucuapa ,9,3
+248,Usulutan ,Jucuaran ,22.81,31.4
+249,Usulutan ,Mercedes Umana ,27.54,34.8
+250,Usulutan ,Nueva Granada ,42.22,58.9
+251,Usulutan ,Ozatlan ,42.94,31.1
+252,Usulutan ,Puerto El Triunfo ,33.2,4
+253,Usulutan ,San Agustin ,37.83,46.6
+254,Usulutan ,San Buenaventura ,23.9,26
+255,Usulutan ,San Dionisio ,24.77,15.4
+256,Usulutan ,San Francisco Javier ,31.13,40.6
+257,Usulutan ,Santa Elena ,19.34,31.7
+258,Usulutan ,Santa Maria ,31.45,12.6
+259,Usulutan ,Santiago de Maria ,12,6
+260,Usulutan ,Tecapan ,28.61,35.5
+261,Usulutan ,Usulutan ,27.79,11.2
